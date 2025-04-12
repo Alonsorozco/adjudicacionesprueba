@@ -1,1 +1,1 @@
-https://alonsorozco.github.io/adjudicaciones/
+https://github.com/Alonsorozco/adjudicacionesprueba
